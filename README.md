@@ -40,7 +40,7 @@ I'm studying information systems and learning about cloud computing, data struct
 
 <div> 
  <a href = "mailto:g.caricchio.si@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/gabriel-caricchio-8198a7371/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://br.linkedin.com/in/gabriel-caricchio-7917a7387" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/https://discord.com/users/1421843443034095838" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </div>
 
