@@ -33,10 +33,6 @@ I'm studying information systems and learning about cloud computing, data struct
  
 ---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" height="180" alt="recaihd's GitHub Stats" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCaricchio&layout=compact&theme=tokyonight" height="180" alt="Top Langs" align="left" />
-</div>
 
 <div> 
  <a href = "mailto:g.caricchio.si@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
