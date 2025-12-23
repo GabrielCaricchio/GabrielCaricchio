@@ -39,15 +39,15 @@ I'm studying information systems and learning about cloud computing, data struct
  <a href="https://discord.com/users/https://discord.com/users/1421843443034095838" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
  <a href="mailto:g.caricchio.si@gmail.com" target="_blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
  </a>
   
  <a href="https://wa.me/5581993485435?text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9.....%20e%20quero%20conversar%20com%20voc%C3%AA%20dobre...." target="_blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="whatsapp logo"  />
  </a>
 
  <a href="https://br.linkedin.com/in/gabriel-caricchio-7917a7387" target="_blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
  </a>
 </div>
 
