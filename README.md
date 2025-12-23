@@ -47,7 +47,7 @@ I'm studying 📚 information systems 💻 and learning about cloud computing, d
 
 ## Social networks📱
 <div style="display: inline_block"> 
-<a href="mailto:g.caricchio.si@gmail.com" target="_blank">
+<a href="g.caricchio.si@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
 </a>
  <a href="https://wa.me/5581993485435?text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9.....%20e%20quero%20conversar%20com%20voc%C3%AA%20dobre...." target="_blank">
