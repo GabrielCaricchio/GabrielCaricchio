@@ -1,4 +1,4 @@
- ## Gabriel Arruda Caricchio
+ ## Gabriel Arruda Caricchio 
 
 <div align="left">
   <a href="https://git.io/typing-svg">
@@ -7,8 +7,8 @@
 </div>
 
  
-## 👨‍💻 About me 
-I'm studying information systems and learning about cloud computing, data structures, and databases. I enjoy programming and am dedicated to my projects and work. I'm looking for jobs in the back-end area; my primary programming language is Python.
+## About me 👨‍💻
+I'm studying 📚 information systems 💻 and learning about cloud computing, data structures, and databases. I enjoy programming 🖥️ and am dedicated to my projects and work 🧑‍💼. I'm looking for jobs in the back-end area 😍; my primary programming language is Python 🐍.
 
 ---
  
@@ -36,7 +36,7 @@ I'm studying information systems and learning about cloud computing, data struct
 
 ---
 
-## Tools 🧰
+## Tools 🧰🔧
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align= "left" alt = "intellij" title = "IntelliJ" width = "30px" style = "padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
