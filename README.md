@@ -51,7 +51,7 @@ I'm studying information systems and learning about cloud computing, data struct
  </a>
 </div>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=GabrielCaricchio&style=flat-square&color=blue" align="left" alt="Visitas no perfil"/>
 </p>
 
