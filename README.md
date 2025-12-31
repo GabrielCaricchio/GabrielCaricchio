@@ -1,4 +1,4 @@
- ## Gabriel Caricchio 🧔‍♂️
+ ## Gabriel C. 🧔‍♂️
 
 <div align="left">
   <a href="https://git.io/typing-svg">
