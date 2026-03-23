@@ -27,9 +27,7 @@ I'm studying 📚 information systems 💻 and learning about cloud computing, d
 ---
 
 ## Libraries and Frameworks 👷🏗️
-<img align="left" alt="numpy" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png"/>
-<img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png"/>
-<img align="left" alt="selenium" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png"/>
+<img align="left" alt="flask" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"/>
 <img align="left" alt="django" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png"/>
 
 </br>
