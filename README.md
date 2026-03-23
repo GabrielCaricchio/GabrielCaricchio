@@ -36,10 +36,8 @@ I'm studying 📚 information systems 💻 and learning about cloud computing, d
 
 ## Tools 🧰🔧
 <img align="left" alt="vs code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align= "left" alt = "intellij" title = "IntelliJ" width = "30px" style = "padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
 </br>
 
 ---
@@ -54,7 +52,4 @@ I'm studying 📚 information systems 💻 and learning about cloud computing, d
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
  </a>
  
- <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=GabrielCaricchio&style=flat-square&color=blue" align="left" alt="Visitas no perfil"/>
-</p>
 </div>
