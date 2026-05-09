@@ -1,10 +1,6 @@
  ## Gabriel Arruda Caricchio 🧔‍♂️
 
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=4000&color=FFFFFF&center=false&vCenter=true&random=false&width=524&lines=+Desenvolvedor+Python+Back-end+" alt="Typing SVG">
-  </a>
-</div>
+```Dsenvolvedor Back-end | Desenvolvedor Python | Analista de Dados | Analista de Automações```
 
  
 ## Sobre mim 👨‍💻
