@@ -8,7 +8,7 @@
 
  
 ## Sobre mim 👨‍💻
-Estou cursando Sistemas de Informação gosto de programar e sou dedicado aos meus projetos e trabalhos. Estou em busca de oportunidades na área de back-end, análise e previsão de dados com Python, e automações com Python, estou no nivel intermediario do Python e tenho experiencia com Flask, Pandas, Scikit-learn, Plotly, Pyautogui; além da minha linguagem primaria citada anteriormente também tenho um domínio básico de HTML,CSS, MySQL, SQLite. Tenho um bom domínio de git e utilizo diariamente em meus projetos, além disso tenho experiencia básica com Linux (de base Ubuntu, em especial o Linux Mint).
+Estou cursando Sistemas de Informação e buscando oportunidades na área de back-end, análise e previsão de dados com Python, e automações com Python, estou no nivel intermediario do Python e tenho experiencia com Flask, Pandas, Scikit-learn, Plotly, Pyautogui; Além da minha linguagem primaria citada anteriormente também tenho um domínio básico de HTML,CSS, MySQL, SQLite, git e github. Ademas,tenho experiencia básica com Linux (de base Ubuntu, em especial o Linux Mint).
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-caricchio-dev/" target="_blank">
