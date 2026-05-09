@@ -10,10 +10,16 @@
 ## Sobre mim 👨‍💻
 Estou cursando Sistemas de Informação e focando em desenvolvimento back-end com Python. Gosto de programar e sou dedicado aos meus projetos e trabalhos. Estou em busca de oportunidades na área de back-end e de análise dados com Python, domino a sintaxe básica do Python e tenho experiencia com Flask e Django; além da minha linguagem primaria citada anteriormente também tenho um domínio básico de HTML,CSS, MySQL, SQLite. Tenho um bom domínio de git e utilizo  diariamente em meus projetos, além disso tenho experiencia básica com Linux (de base Ubuntu).
 
-
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-caricchio-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:g.caricchio.si@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
  
- ## Tecnologias e Ferramentas
+ ## Tecnologias e Ferramentas 🧰
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
