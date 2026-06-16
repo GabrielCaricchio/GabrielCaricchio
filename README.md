@@ -4,7 +4,7 @@
 
  
 ## Sobre mim 👨‍💻
-Estou cursando Sistemas de Informação e buscando oportunidades na área de back-end, análise e previsão de dados com Python, e automações com Python. Estou no nivel intermediario do Python e tenho experiencia com Flask, Pandas, Scikit-learn, Plotly, Pyautogui; Além da minha linguagem primaria citada anteriormente, tenho um domínio básico de HTML, CSS, MySQL, SQLite, git e github, e Linux (de base Ubuntu, em especial o Linux Mint).
+Estou cursando Sistemas de Informação e buscando oportunidades na área de back-end, análise e previsão de dados com Python, e automações com Python. Estou no nivel intermediario do Python e tenho experiencia com Flask, Pandas, Scikit-learn, Plotly, Pyautogui; Além da minha linguagem primaria citada anteriormente, tenho um domínio básico de HTML, CSS, MySQL, SQLite, git e github, e Linux (em especial de base ubuntu).
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-caricchio-dev/" target="_blank">
@@ -30,11 +30,7 @@ Estou cursando Sistemas de Informação e buscando oportunidades na área de bac
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-blue?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Status 📈
 
