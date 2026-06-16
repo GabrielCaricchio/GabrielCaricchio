@@ -35,7 +35,7 @@ Estou cursando Sistemas de Informação e buscando oportunidades na área de bac
 
 ## Status
 
-<table style="white-space: nowrap; display: inline-block; max-width: 100%; overflow-x: auto;">
+<table style="white-space: wrap; display: inline-block; max-width: 100%; overflow-x: auto;">
     <tr>
       <td align="center">
         <a href="https://github.com/GabrielCaricchio/github-readme-stats">
