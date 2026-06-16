@@ -39,7 +39,7 @@ Estou cursando Sistemas de Informação e buscando oportunidades na área de bac
     <tr>
       <td align="center">
         <a href="https://github.com/GabrielCaricchio/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=400" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500" />
 </a>
       </td>
      <td>
