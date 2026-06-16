@@ -35,17 +35,17 @@ Estou cursando Sistemas de Informação e buscando oportunidades na área de bac
 
 ## Status
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; max-width: 1150px; margin: 0 auto; max-height=800;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; max-width: 100%; margin: 0 auto;">
   
-  <div style="flex: 1; min-width: 320px; max-width: 500px; max-height=400;">
+  <div style="width: 500px; max-width: 100%;">
     <a href="https://github.com/GabrielCaricchio/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500" style="width: 100%; height: auto;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500" style="width: 100%; height: auto; display: block;" />
     </a>
   </div>
 
-  <div style="flex: 1; min-width: 320px; max-width: 600px; max-height=400;">
+  <div style="width: 600px; max-width: 100%;">
     <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&langs_count=8&card_width=600" style="width: 100%; height: auto;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&langs_count=8&card_width=600" style="width: 100%; height: auto; display: block;" />
     </a>
   </div>
 
