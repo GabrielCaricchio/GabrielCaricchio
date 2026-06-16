@@ -35,17 +35,18 @@ Estou cursando Sistemas de Informação e buscando oportunidades na área de bac
 
 ## Status
 
-<table style="white-space: wrap; display: inline-block; max-width: 100%; overflow-x: auto;">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/GabrielCaricchio/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500" />
-</a>
-      </td>
-     <td>
-      <a href="https://github.com/anuraghazra/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&langs_count=8&card_width=600" />
-</a>
-     </td>
-    </tr>
-  </table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; max-width: 1150px; margin: 0 auto; max-height=800;">
+  
+  <div style="flex: 1; min-width: 320px; max-width: 500px; max-height=400;">
+    <a href="https://github.com/GabrielCaricchio/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
+  <div style="flex: 1; min-width: 320px; max-width: 600px; max-height=400;">
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&langs_count=8&card_width=600" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+
+</div>
