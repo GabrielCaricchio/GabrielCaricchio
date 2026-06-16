@@ -35,18 +35,9 @@ Estou cursando Sistemas de Informação e buscando oportunidades na área de bac
 
 ## Status
 
-<table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/GabrielCaricchio/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500" />
+<a href="https://github.com/GabrielCaricchio/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast" />
 </a>
-      </td>
-     <td>
-      <a href="https://github.com/anuraghazra/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&langs_count=8&card_width=600" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&layout=compact&langs_count=8&card_width=320" />
 </a>
-     </td>
-    </tr>
-  </table> 
-
