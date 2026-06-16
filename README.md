@@ -35,11 +35,17 @@ Estou cursando Sistemas de Informação e buscando oportunidades na área de bac
 
 ## Status
 
-<p align="center">
-  <a href="https://github.com/GabrielCaricchio/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500" width="45%" min-width="300px" align="center" style="max-width: 500px; padding: 5px;" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&langs_count=8&card_width=600" width="53%" min-width="300px" align="center" style="max-width: 600px; padding: 5px;" />
-  </a>
-</p>
+<table align="center" style="border: none; border-collapse: collapse; border-spacing: 0; width: 100%; max-width: 1150px;">
+  <tr style="background: transparent; border: none;">
+    <td align="center" style="border: none; padding: 10px; display: inline-block; width: 500px; max-width: 100%;">
+      <a href="https://github.com/GabrielCaricchio/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=500" style="width: 100%; height: auto;" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px; display: inline-block; width: 600px; max-width: 100%;">
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&langs_count=8&card_width=600" style="width: 100%; height: auto;" />
+      </a>
+    </td>
+  </tr>
+</table>
