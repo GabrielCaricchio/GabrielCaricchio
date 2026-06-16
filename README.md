@@ -33,3 +33,11 @@ Estou cursando Sistemas de Informação e buscando oportunidades na área de bac
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Status
+
+<a href="https://github.com/GabrielCaricchio/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&layout=compact&langs_count=12&card_width=500" />
+</a>
