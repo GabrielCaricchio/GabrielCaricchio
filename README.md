@@ -1,6 +1,6 @@
  ## Gabriel Arruda Caricchio 🧔‍♂️
 
-```Desenvolvedor Back-end | Desenvolvedor Python | Analista de Dados | Analista de Automações```
+```Desenvolvedor de Software | Especialista em Python```
 
  
 ## Sobre mim 👨‍💻
