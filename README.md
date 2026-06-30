@@ -12,7 +12,7 @@ Back-End: Java, Node e Typescript; </br>
 Front-End: HTML, CSS e Javascript; </br>
 Frameworks Back-End: Django; </br>
 Frameworks Front-End: Angular; </br>
-Banco de Dados: MySQL, SQLite e Mongodb;
+Banco de Dados: MySQL, SQLite e Mongodb; </br>
 Ferramentas: Git, Github e Linux.
 
 <div align="left">
