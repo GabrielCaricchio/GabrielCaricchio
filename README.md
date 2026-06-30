@@ -1,6 +1,6 @@
  ## Gabriel Arruda Caricchio 🧔‍♂️
 
-```Desenvolvedor de Software | Especialista em Python e WEB```
+```Desenvolvedor de Software Full-Stack | Especialista em Python e WEB```
 
  
 ## Sobre mim 👨‍💻
