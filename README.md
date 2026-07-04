@@ -44,8 +44,8 @@ Ferramentas: Git, Github e Linux.
 ## Status 📈
 
 <a href="https://github.com/GabrielCaricchio/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast" alt="Github Status"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&layout=compact&langs_count=8&card_width=360" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&layout=compact&langs_count=8&card_width=360" alt="Github Top 8 Languages"/>
 </a>
