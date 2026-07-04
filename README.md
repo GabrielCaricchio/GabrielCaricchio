@@ -8,12 +8,12 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 Meus conhecimentos são focados em Python e WEB entretanto tenho conhecimento básico ou intermediários com outras tecnologias em diferentes áreas:
 
-Back-End: Java, Node e Typescript; </br>
-Front-End: HTML, CSS e Javascript; </br>
-Frameworks Back-End: Django; </br>
-Frameworks Front-End: Angular; </br>
-Banco de Dados: MySQL, SQLite e Mongodb; </br>
-Ferramentas: Git, Github e Linux.
+- Back-End: Java, Node e Typescript; </br> </br>
+- Front-End: HTML, CSS e Javascript; </br> </br>
+- Frameworks Back-End: Django; </br> </br>
+- Frameworks Front-End: Angular; </br> </br>
+- Banco de Dados: MySQL, SQLite e Mongodb; </br> </br>
+- Ferramentas: Git, Github e Linux. </br> </br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-caricchio-dev/" target="_blank">
