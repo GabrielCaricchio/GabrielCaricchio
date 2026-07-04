@@ -1,12 +1,12 @@
  ## Gabriel Arruda Caricchio 🧔‍♂️
 
-```Desenvolvedor de Software Full-Stack | Especialista em Python e WEB```
+```Desenvolvedor de Software Full-Stack | Foco em Python e WEB```
 
  
 ## Sobre mim 👨‍💻
-Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor; Prezo por responsabilidade, respeito e compromisso, meu trabalho é sinonimo de dedicação. Independente da tecnologia estou disposto a aprender, sempre mantendo um bom carisma e esforço.
+Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor full-stack; Prezo por responsabilidade, respeito e compromisso, meu trabalho é sinonimo de dedicação. Independente da tecnologia estou disposto a aprender, sempre mantendo um bom carisma e esforço.
 
-Meus conhecimentos são focados em Python entretanto tenho conhecimento básico ou intermediários com outras tecnologias em diferentes áreas:
+Meus conhecimentos são focados em Python e WEB entretanto tenho conhecimento básico ou intermediários com outras tecnologias em diferentes áreas:
 
 Back-End: Java, Node e Typescript; </br>
 Front-End: HTML, CSS e Javascript; </br>
