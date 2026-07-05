@@ -38,23 +38,20 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
  
  ## Tecnologias e Ferramentas 🧰
 <div name="python-stack">
- <img 
-    align="left" 
+ <img
     alt="Python" 
     title="Python"
     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" 
 />
 
-<img 
-    align="left" 
+<img
     alt="Django" 
     title="Django"
     src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" 
 />
 
 <!--
-<img 
-    align="left" 
+<img
     alt="Django Rest" 
     title="Django Rest"
     src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white
@@ -64,7 +61,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Fastapi" 
     title="Fastapi"
     src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white
@@ -74,7 +70,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Flask" 
     title="Flask"
     src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" 
@@ -82,8 +77,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <!--
-<img 
-    align="left" 
+<img
     alt="Pandas" 
     title="Pandas"
     src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" 
@@ -92,7 +86,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Numpy" 
     title="Numpy"
     src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" 
@@ -100,8 +93,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <!--
-<img 
-    align="left" 
+<img
     alt="Plotly" 
     title="Plotly"
     src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" 
@@ -110,7 +102,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Matplotlib" 
     title="Matplotlib"
     src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" 
@@ -119,7 +110,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Seaborn" 
     title="Seaborn"
     src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" 
@@ -128,15 +118,13 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Scikit-learn" 
     title="Scikit-learn"
     src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" 
 />
 -->
 <!--
-<img 
-    align="left" 
+<img
     alt="Langchain" 
     title="Langchain"
     src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" 
@@ -144,8 +132,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <!--
-<img 
-    align="left" 
+<img
     alt="Langgraph" 
     title="Langgraph"
     src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" 
@@ -153,8 +140,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <!--
-<img 
-    align="left" 
+<img
     alt="Pytorch" 
     title="Pytorch"
     src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" 
@@ -162,8 +148,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <!--
-<img 
-    align="left" 
+<img
     alt="Tensorflow" 
     title="Tensorflow"
     src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" 
@@ -172,7 +157,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Pytest" 
     title="Pytest"
     title="Pytest"src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" 
@@ -181,7 +165,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Streamlit" 
     title="Streamlit"
     title="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" 
@@ -189,8 +172,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <!--
-<img 
-    align="left" 
+<img
     alt="SQLAlchemy" 
     title="SQLAlchemy"
     src="https://img.shields.io/badge/SQLAlchemy-D71F27?style=for-the-badge&logo=sqlalchemy&logoColor=white" 
@@ -199,7 +181,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Ollama" 
     title="Ollama"
     src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" 
@@ -209,34 +190,29 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 </div>
 
 <div name="web-stack">
-<img 
-    align="left" 
+<img
     alt="HTML5"
     title="HTML5" 
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
 />
 <img 
-    align="left" 
     alt="CSS3" 
     title="CSS3"
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
 />
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
 />
 
-<img 
-    align="left" 
+<img
     alt="TypeScript"
     title="TypeScript" 
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
 />
 
 <img 
-    align="left" 
     alt="React"
     title="React" 
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
@@ -244,8 +220,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 
  <!--
-<img 
-    align="left" 
+<img  
     alt="Angular" 
     title="Angular"
     src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
@@ -253,8 +228,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <!--
-<img 
-    align="left" 
+<img  
     alt="Node js" 
     title="Node js"
     src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" 
@@ -263,7 +237,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Express JS" 
     title="Express JS"
     src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" 
@@ -272,7 +245,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Prisma" 
     title="Prisma"
     src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" 
@@ -281,7 +253,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Jquery" 
     title="Jquery"
     src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
@@ -290,7 +261,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Jwt" 
     title="Jwt"
     src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" 
@@ -299,7 +269,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" 
@@ -307,8 +276,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <!--
-<img 
-    align="left" 
+<img
     alt="Tailwind CSS" 
     title="Tailwind CSS"
     src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" 
@@ -317,7 +285,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Shadcn Ui" 
     title="Shadcn UI"
     src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" 
@@ -325,8 +292,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <!--
-<img 
-    align="left" 
+<img  
     alt="Material UI" 
     title="Material UI"
     src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" 
@@ -335,7 +301,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Canva" 
     title="Canva"
     src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" 
@@ -344,7 +309,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Figma" 
     title="Figma"
     src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
@@ -352,7 +316,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <img 
-    align="left" 
     alt="Markdown" 
     title="Markdown"
     src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" 
@@ -363,14 +326,12 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <div name="cloud-virtualizacao-os">
 <img 
-    align="left" 
     alt="Docker" 
     title="Docker"
     src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" 
 />
 
 <img 
-    align="left" 
     alt="Docker Compose" 
     title="Docker Compose"
     src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" 
@@ -378,7 +339,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Nginx" 
     title="Nginx"
     src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" 
@@ -386,7 +346,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
 <img 
-    align="left" 
     alt="Linux" 
     title="Linux"
     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" 
@@ -396,7 +355,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <div name="mobile-stack">
 <img 
-    align="left" 
     alt="Kotlin" 
     title="Kotlin"
     src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" 
@@ -404,7 +362,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Jetpack Compose" 
     title="Jetpack Compose"
     src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white" 
@@ -415,7 +372,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 <div name="java-stack">
 <!--
 <img 
-    align="left" 
     alt="Java" 
     title="Java"
     src="https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=white" 
@@ -424,7 +380,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Spring" 
     title="Spring"
     src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" 
@@ -433,7 +388,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Spring Boot" 
     title="Spring Boot"
     src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" 
@@ -442,7 +396,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Spring Security" 
     title="Spring Security"
     src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" 
@@ -451,7 +404,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Hibernate" 
     title="Hibernate"
     src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" 
@@ -463,7 +415,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 <!--
 <div name="database-e-mensageria">
 <img 
-    align="left" 
     alt="Mariadb" 
     title="Mariadb"
     src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" 
@@ -471,14 +422,12 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 -->
 
  <img 
-    align="left" 
     alt="Mysql" 
     title="Mysql"
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" 
 />
 
  <img 
-    align="left" 
     alt="Mongodb" 
     title="Mongodb"
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" 
@@ -486,7 +435,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Sqlite" 
     title="Sqlite"
     src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" 
@@ -495,7 +443,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Oracle" 
     title="Oracle"
     src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" 
@@ -504,7 +451,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Postgresql" 
     title="Postgresql"
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
@@ -513,7 +459,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Redis" 
     title="Redis"
     src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" 
@@ -522,7 +467,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="NEO4J" 
     title="NEO4J"
     src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" 
@@ -531,7 +475,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Rabbitmq" 
     title="Rabbitmq"
     src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" 
@@ -540,7 +483,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 <!--
 <img 
-    align="left" 
     alt="Apache Kafka" 
     title="Apache Kafka"
     src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" 
@@ -552,6 +494,8 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 ---
 
 ## Status 📈
+
+</br>
 
 <a href="https://github.com/GabrielCaricchio/github-readme-stats">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast" alt="Github Status"/>
