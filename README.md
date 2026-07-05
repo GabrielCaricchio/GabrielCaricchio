@@ -20,6 +20,8 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 - Outros: Git, Github, Linux, Docker, Docker Compose, Markdown.
 
+</br>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-caricchio-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -38,6 +40,8 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 </a>
 </div>
 </div>
+
+</br>
 
 <div>
  <h2>Tecnologias e Ferramentas 🧰</h2>
