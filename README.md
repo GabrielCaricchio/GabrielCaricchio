@@ -227,26 +227,33 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     title="React" 
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
 />
+
+ <!--
 <img 
     align="left" 
     alt="Angular" 
     title="Angular"
     src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
 />
+-->
 
+<!--
 <img 
     align="left" 
     alt="Node js" 
     title="Node js"
     src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" 
 />
+-->
 
+<!--
 <img 
     align="left" 
     alt="Express JS" 
     title="Express JS"
     src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" 
 />
+-->
 
 <!--
 <img 
