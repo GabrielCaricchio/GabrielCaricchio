@@ -6,6 +6,18 @@
 ## Sobre mim 👨‍💻
 Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor full-stack; Prezo por responsabilidade, respeito e compromisso, meu trabalho é sinonimo de dedicação. Independente da tecnologia estou disposto a aprender, sempre mantendo um bom carisma e esforço! Minhas habilidades atualmente estão focadas em Python e desenvolvimento web.
 
+- Back-End: Python, Typescript;
+
+- Front-End: HTML, CSS e Javascript;
+
+- Frameworks Back-End: Django;
+
+- Frameworks Front-End: React;
+
+- Banco de Dados: MySQL e Mongodb;
+
+- Outros: Git, Github, Linux, Docker, Docker Compose, Markdown.
+
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-caricchio-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
