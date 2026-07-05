@@ -223,14 +223,13 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
 />
 
-<!--
 <img 
     align="left" 
     alt="React"
     title="React" 
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
 />
--->
+
 
  <!--
 <img 
@@ -459,23 +458,19 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 />
 -->
 
-<!--
  <img 
     align="left" 
     alt="Mysql" 
     title="Mysql"
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" 
 />
--->
 
-<!--
  <img 
     align="left" 
     alt="Mongodb" 
     title="Mongodb"
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" 
 />
--->
 
 <!--
 <img 
