@@ -215,18 +215,22 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     title="JavaScript"
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
 />
+
+<!--
 <img 
     align="left" 
     alt="React"
     title="React" 
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
 />
+-->
 
  <!--
 <img 
@@ -362,12 +366,14 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" 
 />
 
+<!--
 <img 
     align="left" 
     alt="Nginx" 
     title="Nginx"
     src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" 
 />
+-->
 
 <img 
     align="left" 
@@ -444,6 +450,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 </div>
 
+<!--
 <div name="database-e-mensageria">
 <img 
     align="left" 
@@ -451,69 +458,90 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     title="Mariadb"
     src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" 
 />
+-->
+
+<!--
  <img 
     align="left" 
     alt="Mysql" 
     title="Mysql"
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" 
 />
+-->
 
+<!--
  <img 
     align="left" 
     alt="Mongodb" 
     title="Mongodb"
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" 
 />
+-->
 
+<!--
 <img 
     align="left" 
     alt="Sqlite" 
     title="Sqlite"
     src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" 
 />
+-->
 
+<!--
 <img 
     align="left" 
     alt="Oracle" 
     title="Oracle"
     src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" 
 />
+-->
 
+<!--
 <img 
     align="left" 
     alt="Postgresql" 
     title="Postgresql"
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
 />
+-->
 
+<!--
 <img 
     align="left" 
     alt="Redis" 
     title="Redis"
     src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" 
 />
+-->
+
+<!--
 <img 
     align="left" 
     alt="NEO4J" 
     title="NEO4J"
     src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" 
 />
+-->
 
+<!--
 <img 
     align="left" 
     alt="Rabbitmq" 
     title="Rabbitmq"
     src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" 
 />
+-->
 
+<!--
 <img 
     align="left" 
     alt="Apache Kafka" 
     title="Apache Kafka"
     src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" 
 />
+-->
 
-
+<br>
 </div>
 
 <br>
