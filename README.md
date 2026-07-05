@@ -555,9 +555,12 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 </div>
 
 </br>
+
 </br>
 
 ---
+
+</br>
 
 <div>
 <h2>Status 📈</h2>
