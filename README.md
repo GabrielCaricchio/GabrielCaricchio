@@ -37,7 +37,8 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 </div>
  
  ## Tecnologias e Ferramentas 🧰
-<div name="python-stack">
+
+<div align="left">
  <img
     alt="Python" 
     title="Python"
@@ -187,9 +188,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 />
 -->
 
-</div>
-
-<div name="web-stack">
 <img
     alt="HTML5"
     title="HTML5" 
@@ -321,10 +319,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" 
 />
 
-
-</div>
-
-<div name="cloud-virtualizacao-os">
 <img 
     alt="Docker" 
     title="Docker"
@@ -351,9 +345,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" 
 />
 
-</div>
-
-<div name="mobile-stack">
 <img 
     alt="Kotlin" 
     title="Kotlin"
@@ -367,9 +358,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white" 
 />
 -->
-</div>
 
-<div name="java-stack">
 <!--
 <img 
     alt="Java" 
@@ -409,8 +398,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" 
 />
 -->
-
-</div>
 
 <!--
 <div name="database-e-mensageria">
@@ -494,8 +481,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 ---
 
 ## Status 📈
-
-</br>
 
 <a href="https://github.com/GabrielCaricchio/github-readme-stats">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast" alt="Github Status"/>
