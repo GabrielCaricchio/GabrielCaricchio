@@ -4,7 +4,7 @@
 
  
 ## Sobre mim 👨‍💻
-Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor full-stack; Prezo por responsabilidade, respeito e compromisso, meu trabalho é sinonimo de dedicação. Independente da tecnologia estou disposto a aprender, sempre mantendo um bom carisma e esforço! Minhas habilidades estão focadas em Python e programação web.
+Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor full-stack; Prezo por responsabilidade, respeito e compromisso, meu trabalho é sinonimo de dedicação. Independente da tecnologia estou disposto a aprender, sempre mantendo um bom carisma e esforço! Minhas habilidades estão focadas em Python e desenvolvimento web.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-caricchio-dev/" target="_blank">
