@@ -1,7 +1,7 @@
 <div>
 <h1>Gabriel Arruda Caricchio 🧔‍♂️</h1>
 
-```Desenvolvedor de Software Full-Stack | Foco em Python e Web```
+```Desenvolvedor de Software Full-Stack```
 </div>
 
 <div>
@@ -67,7 +67,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" 
 />
 
-<!--
+
 <img 
     align="left" 
     alt="Django Rest" 
@@ -75,9 +75,9 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white
 " 
 />
--->
 
-<!--
+
+
 <img 
     align="left" 
     alt="Fastapi" 
@@ -85,141 +85,114 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white
 " 
 />
--->
 
-<!--
+
 <img 
     align="left" 
     alt="Flask" 
     title="Flask"
     src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Pandas" 
     title="Pandas"
     src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Numpy" 
     title="Numpy"
     src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" 
 />
--->
 
-<!--
+
+
 <img 
     align="left" 
     alt="Plotly" 
     title="Plotly"
     src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Matplotlib" 
     title="Matplotlib"
     src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Seaborn" 
     title="Seaborn"
     src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Scikit-learn" 
     title="Scikit-learn"
     src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" 
 />
--->
-<!--
+
 <img 
     align="left" 
     alt="Langchain" 
     title="Langchain"
     src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Langgraph" 
     title="Langgraph"
     src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Pytorch" 
     title="Pytorch"
     src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Tensorflow" 
     title="Tensorflow"
     src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Pytest" 
     title="Pytest"
     title="Pytest"src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Streamlit" 
     title="Streamlit"
     title="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="SQLAlchemy" 
     title="SQLAlchemy"
     src="https://img.shields.io/badge/SQLAlchemy-D71F27?style=for-the-badge&logo=sqlalchemy&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Ollama" 
     title="Ollama"
     src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" 
 />
--->
 
 </div>
 
@@ -257,114 +230,89 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
 />
 
-
- <!--
 <img 
     align="left" 
     alt="Angular" 
     title="Angular"
     src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Node js" 
     title="Node js"
     src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Express JS" 
     title="Express JS"
     src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Prisma" 
     title="Prisma"
     src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Jquery" 
     title="Jquery"
     src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Jwt" 
     title="Jwt"
     src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Tailwind CSS" 
     title="Tailwind CSS"
     src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Shadcn Ui" 
     title="Shadcn UI"
     src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Material UI" 
     title="Material UI"
     src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Canva" 
     title="Canva"
     src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Figma" 
     title="Figma"
     src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
 />
--->
 
 <img 
     align="left" 
@@ -391,14 +339,12 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" 
 />
 
-<!--
 <img 
     align="left" 
     alt="Nginx" 
     title="Nginx"
     src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" 
 />
--->
 
 <img 
     align="left" 
@@ -417,65 +363,54 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" 
 />
 
-<!--
 <img 
     align="left" 
     alt="Jetpack Compose" 
     title="Jetpack Compose"
     src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white" 
 />
--->
+
 </div>
 
 <div name="java-stack">
-<!--
+
 <img 
     align="left" 
     alt="Java" 
     title="Java"
     src="https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Spring" 
     title="Spring"
     src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Spring Boot" 
     title="Spring Boot"
     src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Spring Security" 
     title="Spring Security"
     src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Hibernate" 
     title="Hibernate"
     src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" 
 />
--->
 
 </div>
 
-<!--
 <div name="database-e-mensageria">
 <img 
     align="left" 
@@ -483,7 +418,6 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     title="Mariadb"
     src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" 
 />
--->
 
  <img 
     align="left" 
@@ -499,77 +433,64 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" 
 />
 
-<!--
 <img 
     align="left" 
     alt="Sqlite" 
     title="Sqlite"
     src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Oracle" 
     title="Oracle"
     src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Postgresql" 
     title="Postgresql"
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Redis" 
     title="Redis"
     src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="NEO4J" 
     title="NEO4J"
     src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Rabbitmq" 
     title="Rabbitmq"
     src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" 
 />
--->
 
-<!--
 <img 
     align="left" 
     alt="Apache Kafka" 
     title="Apache Kafka"
     src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" 
 />
+
+</div>
+</div>
+
+</br>
+</br>
+</br>
+</br>
+</br>
 -->
-
-</div>
-</div>
-
-</br>
-</br>
-</br>
-</br>
-</br>
 
 <div>
 <h2>Status 📈</h2>
@@ -581,4 +502,3 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&layout=compact&langs_count=8&card_width=360" alt="Github Top 8 Languages"/>
 </a> 
 </div>
--->
