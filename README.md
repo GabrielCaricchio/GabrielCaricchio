@@ -6,7 +6,11 @@
 
 <div>
 <h2>Sobre mim 👨‍💻</h2>
-Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor full-stack; Prezo por responsabilidade, respeito e compromisso, meu trabalho é sinonimo de dedicação. Independente da tecnologia estou disposto a aprender, sempre mantendo um bom carisma e esforço! Minhas habilidades atualmente estão focadas em Python e desenvolvimento web.
+Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor back-end e desenvolvedor full-stack; Prezo por responsabilidade, respeito e compromisso, meu trabalho é sinonimo de dedicação. Independente da tecnologia estou disposto a aprender, sempre mantendo um bom carisma e esforço!
+
+<!--
+<div>
+ Minhas habilidades atualmente estão focadas em Python e desenvolvimento web.
 
 - Back-End: Python, Typescript;
 
@@ -19,7 +23,10 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 - Banco de Dados: MySQL e Mongodb;
 
 - Outros: Git, Github, Linux, Docker, Docker Compose, Markdown.
+</div>
+-->
 
+<!--
 </br>
 
 <div align="left">
@@ -574,3 +581,4 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&layout=compact&langs_count=8&card_width=360" alt="Github Top 8 Languages"/>
 </a> 
 </div>
+-->
