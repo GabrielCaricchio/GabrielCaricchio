@@ -26,7 +26,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 </div>
 -->
 
-<!--
+
 </br>
 
 <div align="left">
@@ -50,6 +50,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 </br>
 
+<!--
 <div>
  <h2>Tecnologias e Ferramentas 🧰</h2>
 <div name="python-stack">
