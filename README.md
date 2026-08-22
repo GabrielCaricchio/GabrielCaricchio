@@ -6,7 +6,7 @@
 
 <div>
 <h2>Sobre mim 👨‍💻</h2>
-Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor back-end e desenvolvedor full-stack; Prezo por responsabilidade, respeito e compromisso, meu trabalho é sinonimo de dedicação. Independente da tecnologia estou disposto a aprender, sempre mantendo um bom carisma e esforço!
+Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor back-end ou desenvolvedor full-stack. Prezo por responsabilidade, respeito e compromisso, meu trabalho é sinônimo de dedicação! Independente da tecnologia estou disposto a aprender, sempre mantendo um bom carisma e esforço!
 
 <!--
 <div>
