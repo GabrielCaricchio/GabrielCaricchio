@@ -1,7 +1,7 @@
 <div>
 <h1>Gabriel Arruda Caricchio 🧔‍♂️</h1>
 
-```Desenvolvedor de Software Full-Stack```
+```Desenvolvedor de Software```
 </div>
 
 <div>
