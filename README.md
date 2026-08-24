@@ -497,9 +497,9 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 <h2>Status 📈</h2>
 
 <a href="https://github.com/GabrielCaricchio/github-readme-stats">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=highcontrast" alt="Github Status"/>
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=GabrielCaricchio&show_icons=true&theme=dracula" alt="Github Status"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=highcontrast&layout=compact&langs_count=8&card_width=360" alt="Github Top 8 Languages"/>
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=GabrielCaricchio&show_icons=true&theme=dracula&layout=compact&langs_count=8&card_width=360" alt="Github Top 8 Languages"/>
 </a> 
 </div>
