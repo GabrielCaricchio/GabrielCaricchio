@@ -28,6 +28,7 @@ Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor 
 
 
 </br>
+</br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-caricchio-dev/" target="_blank">
