@@ -11,6 +11,44 @@ Meu foco é Python: já desenvolvi projetos com Flask e LangChain, uso Git e Git
 
 Principais tecnologias: Python · Flask · LangChain · Git/GitHub · Docker · Linux
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" 
+/>
+
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" 
+/>
+
+<img 
+    align="left" 
+    alt="Langchain" 
+    title="Langchain"
+    src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" 
+/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" 
+/>
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" 
+/>
+
 <!--
 <div>
  Minhas habilidades atualmente estão focadas em Python e desenvolvimento web.
@@ -32,7 +70,7 @@ Principais tecnologias: Python · Flask · LangChain · Git/GitHub · Docker · 
 
 </br>
 </br>
-
+<h3>Contatos:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-caricchio-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -46,9 +84,12 @@ Principais tecnologias: Python · Flask · LangChain · Git/GitHub · Docker · 
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Whatsapp"/>
  </a>
 
+<!--
 <a href="https://discord.com/users/1421843443034095838" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
+-->
+
 </div>
 </div>
 
