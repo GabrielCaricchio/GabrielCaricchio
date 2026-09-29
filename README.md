@@ -6,7 +6,10 @@
 
 <div>
 <h2>Sobre mim 👨‍💻</h2>
-Estou cursando Sistemas de Informação e busco oportunidade como desenvolvedor back-end ou desenvolvedor full-stack. Prezo por responsabilidade, respeito e compromisso, meu trabalho é sinônimo de dedicação! Independente da tecnologia estou disposto a aprender, sempre mantendo um bom carisma e esforço!
+Estudante de Sistemas de Informação em busca de estágio ou vaga júnior em desenvolvimento back-end.
+Meu foco é Python: já desenvolvi projetos com Flask e LangChain, uso Git e GitHub para versionar meu código e tenho noções de Docker e Linux. Em 2026, concluí a Jornada Python (Hashtag Treinamentos) e sigo evoluindo com projetos práticos e estudos de tecnologias.
+
+Principais tecnologias: Python · Flask · LangChain · Git/GitHub · Docker · Linux
 
 <!--
 <div>
